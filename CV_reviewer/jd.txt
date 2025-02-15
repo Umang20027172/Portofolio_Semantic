@@ -1,0 +1,37 @@
+Project Description:
+
+The role of a Data Analysis Software Engineer is to design, develop, and optimize software tools and systems to process, analyze, and visualize data efficiently. The candidate will work in a cross functional group of scientists and engineers, responsible for developing next-generation 3D imaging systems for metrology applications, including hardware, software, instruments and fixtures.
+
+
+
+Responsibilities:
+
+Analysis of data taken by various optical imaging systems
+Develop scalable analysis tools for high performance cluster systems
+Design, implement and maintain robust, scalable and efficient software solutions for data analysis and visualization
+Derivation of optical instrument's specifications based on data
+Develop automated tools for validation of algorithms and instruments
+
+
+Mandatory Skills:
+
+At least 5 years of experience of academia and/or industry
+Strong theoretical and experimental background in software engineering, data analysis, statistics and visualization
+Advanced knowledge and experience in algorithm development and implementation
+Data analysis using Python (Pandas, NumPy, Matplotlib, ...) and/or Matlab
+Excellent English, Communication and presentation skills.
+Object oriented programming experience (Objective-C, C++ or equivalent)
+
+
+Nice-to-Have Skills:
+
+Extensive experience in statistical algorithm development or ML Experience
+Experience in developing and implementing image and signal processing algorithms
+Understanding of applied mathematics in the field of linear algebra and calculus
+Experience in deploying software for high performance computing systems
+Knowledge about optical imaging systems
+
+
+Languages:
+
+English: C1 Advanced
