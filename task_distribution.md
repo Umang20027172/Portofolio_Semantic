@@ -16,7 +16,17 @@ Once again, we divided the workload equally and collaborated effectively on the 
 
 ###  Onion Classifier   
 
+The data was pre-processed, and then feature extraction was done on the processed data. 
+We got maximum metrics by using  DistilBERT for Sequence Classification and DistilBERT Tokenizer for tokenization.
+The Training Process was done using AdamW Optimizer with a learning rate scheduler for 10 epochs. 
 
+The reported final metrics are:
+Accuracy: 0.9199
+F1 Score: 0.8901
+Precision: 0.9167
+Recall: 0.8650
+
+The task was distributed amongst all team members equally, where we tested and tried for different solutions.
 
 ###  Capstone Project – Resume Reviewer   
 
