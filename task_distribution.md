@@ -21,9 +21,13 @@ We got maximum metrics by using  DistilBERT for Sequence Classification and Dist
 The Training Process was done using AdamW Optimizer with a learning rate scheduler for 10 epochs. 
 
 The reported final metrics are:
+
 Accuracy: 0.9199
+
 F1 Score: 0.8901
+
 Precision: 0.9167
+
 Recall: 0.8650
 
 The task was distributed amongst all team members equally, where we tested and tried for different solutions.
@@ -38,7 +42,7 @@ For our capstone project, we developed a  Resume Reviewer, which involved three 
 
 We began by strategizing how our system should function and then divided the tasks accordingly. Throughout 4-5 meetings, we collaborated, shared our progress, and integrated our work into a complete end product and presentation.  
 
--  Arun  handled text extraction from PDFs.  
+-  Arun  handled collecting dataset and feature extraction using different methods.  
 -  Blesson  was responsible for text preprocessing.  
 -  Umang  worked on integrating all components, developing the Streamlit application, and deploying it.  
 
