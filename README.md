@@ -1,27 +1,19 @@
 # 📊 Resume Analyzer  
 
-A **Streamlit-based Resume Analyzer** that leverages **Google Gemini AI** to evaluate resumes against job descriptions. It provides **resume insights, skills analysis, keyword optimization, ATS (Applicant Tracking System) compatibility checks, and match score calculations**.
-
----
+A **Streamlit-based Resume Analyzer** that evaluates resumes against job descriptions using **Google Gemini AI**. It provides insights on **resume alignment, skills, keyword analysis, match score, and custom queries**.
 
 ## 🚀 Features  
-
-✅ **PDF Resume Upload** (Only PDF files supported)  
-✅ **Job Description Input** for comparison  
-✅ **AI-Powered Resume Review** with detailed insights  
-✅ **Skills Analysis** with enhancement suggestions  
-✅ **Keyword Optimization** for ATS-friendly resumes  
-✅ **Match Score Calculation** for job fit assessment  
-✅ **Custom AI-powered Queries** for personalized insights  
-
----
+- 📄 **Resume Upload** (PDF only)  
+- 📝 **Job Description Input**  
+- 🔍 **Resume Review**  
+- 🎯 **Skills Analysis**  
+- 🔑 **Keyword Optimization**  
+- 📊 **Match Score Calculation**  
+- 💡 **Custom AI-powered Queries**  
 
 ## 🛠️ Setup Instructions  
 
-### **1️⃣ Prerequisites**  
-Ensure you have **Python 3.7+** installed on your machine. You will also need `pip` to install dependencies.
-
-### **2️⃣ Clone the Repository**  
+### **1️⃣ Install Dependencies**  
+Ensure you have Python installed, then install the required libraries:  
 ```bash
-git clone https://github.com/your-username/resume-analyzer.git
-cd resume-analyzer
+pip install streamlit google-generativeai pymupdf pdf2image pillow
